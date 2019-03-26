@@ -1,0 +1,16 @@
+.img-responsive {
+    width: 100%;
+    height: auto;
+}
+
+.yelp-header {
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+    margin-bottom: 2rem;
+    padding: 15px;
+    color: #ffffff;
+    background-color: #d32323;
+}
